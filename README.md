@@ -1,4 +1,4 @@
-# 알고리즘 스터디 - Program-Us
+# 알고리즘 스터디 [Program-Us]
 
 </br>
 
