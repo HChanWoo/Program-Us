@@ -6,6 +6,8 @@
 [황찬우 풀이 보러가기](https://github.com/HChanWoo/Study-Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87946.%E2%80%85%ED%94%BC%EB%A1%9C%EB%8F%84/%ED%94%BC%EB%A1%9C%EB%8F%84.py) 
 
 [류지수 풀이 보러가기](https://github.com/R-jisu/programmers/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87946.%E2%80%85%ED%94%BC%EB%A1%9C%EB%8F%84/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
+
+[손준석 풀이 보러가기](https://github.com/kd02109/CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87946.%E2%80%85%ED%94%BC%EB%A1%9C%EB%8F%84/%ED%94%BC%EB%A1%9C%EB%8F%84.js)
 ### 성능 요약
 
 메모리: 10.1 MB, 시간: 0.13 ms
