@@ -5,10 +5,15 @@
 ### 👨‍👩‍👧‍👦 팀원 소개
 
 
-| 황찬우 | 김영웅 | 이진화 | 류지수 | 이은희 | 김민재 | 손준석 |
-| :--------------: | :--------------: | :--------------: |:--------------: | :--------------: | :--------------: | :--------------: |
-| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> |
-| [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) |
+| 황찬우 | 김영웅 | 이진화 | 류지수 |
+| :--------------: | :--------------: | :--------------: |:--------------: | 
+| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | 
+| [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | 
+
+| 이은희 | 김민재 | 손준석 |
+|:--------------: | :--------------: | :--------------: |
+| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> |
+| [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) |
 
 <br />
 
