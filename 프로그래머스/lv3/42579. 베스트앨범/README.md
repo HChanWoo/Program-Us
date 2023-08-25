@@ -10,6 +10,8 @@
 [류지수 풀이 보러가기](https://github.com/R-jisu/programmers/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42579.%E2%80%85%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.js)
 
 [이은희 풀이 보러가기](https://github.com/joywhy/codingtest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42579.%E2%80%85%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.js)
+
+[박태양 풀이 보러가기](https://github.com/park-tae-yang/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42579.%E2%80%85%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)
 ### 성능 요약
 
 메모리: 10.1 MB, 시간: 0.02 ms
