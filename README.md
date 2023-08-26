@@ -7,20 +7,20 @@
 
 | 황찬우 | 김영웅 | 이진화 | 류지수 |
 | :--------------: | :--------------: | :--------------: |:--------------: | 
-| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | 
-| [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | 
+| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://avatars.githubusercontent.com/u/77836614?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/122351417?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/79021544?v=4" width=150> | 
+| [@HChanWoo](https://github.com/HChanWoo) | [@novice-hero](https://github.com/novice-hero) | [@JeanneLee57](https://github.com/JeanneLee57) | [@R-jisu](https://github.com/R-jisu) | 
 
-| 이은희 | 김민재 | 손준석 |
-|:--------------: | :--------------: | :--------------: |
-| <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> |
-| [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) | [@HChanWoo](https://github.com/HChanWoo) |
+| 이은희 | 김민재 | 손준석 | 박태양 |
+|:--------------: | :--------------: | :--------------: | :--------------: |
+| <img src="https://avatars.githubusercontent.com/u/82435813?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/88226519?v=4" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://avatars.githubusercontent.com/u/124670911?v=4" width=150> |
+| [@joywhy](https://github.com/joywhy) | [@crowcrow07](https://github.com/crowcrow07) | [@HChanWoo](https://github.com/HChanWoo) | [@park-tae-yang](https://github.com/park-tae-yang) |
 
 <br />
 
 ### 📆 스터디 일시
 
 - 2023/02/23 ~
-- 매주 화요일, 목요일 20시
+1. 매주 화요일, 목요일 20시
 
 <br />
 
