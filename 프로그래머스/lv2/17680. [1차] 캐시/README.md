@@ -2,6 +2,9 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17680) 
 
+### 푼 사람
+[박태양 풀이 보러가기](https://github.com/park-tae-yang/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17680.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EC%BA%90%EC%8B%9C/%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EC%BA%90%EC%8B%9C.java)
+
 ### 성능 요약
 
 메모리: 36.5 MB, 시간: 22.83 ms
