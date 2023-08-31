@@ -12,8 +12,9 @@
 
 | 이은희 | 김민재 | 손준석 | 박태양 |
 |:--------------: | :--------------: | :--------------: | :--------------: |
-| <img src="https://avatars.githubusercontent.com/u/82435813?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/88226519?v=4" width=150> | <img src="https://images-ext-1.discordapp.net/external/kQhSS4IkcxGfV-3wNzTUXgmrU4C46M82rsWScdIZ0s4/%3Fv%3D4/https/avatars.githubusercontent.com/u/49116370?width=924&height=924" width=150> | <img src="https://avatars.githubusercontent.com/u/124670911?v=4" width=150> |
+| <img src="https://avatars.githubusercontent.com/u/82435813?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/88226519?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/57277708?s=400&v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/124670911?v=4" width=150> |
 | [@joywhy](https://github.com/joywhy) | [@crowcrow07](https://github.com/crowcrow07) | [@kd02109](https://github.com/kd02109) | [@park-tae-yang](https://github.com/park-tae-yang) |
+
 
 <br />
 
