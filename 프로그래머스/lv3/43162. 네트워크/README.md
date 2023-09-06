@@ -6,7 +6,7 @@
 - [황찬우 풀이 보러가기](https://github.com/HChanWoo/Study-Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43162.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) 
 - [김영웅 풀이 보러가기](https://github.com/novice-hero/Problem_Solving/commit/020e0c03f34257a37ead3015a9d8c6e9244e7e01#diff-fc41ac2a8f8db0acc3ced2333f4384cba10fb9ec562a584b8f13db0b9e8921a0)
 - [손준석 풀이 보러가기](https://github.com/kd02109/CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43162.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.js)
-
+- [이진화 풀이 보러가기](https://github.com/JeanneLee57/algorithm-practice/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43162.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.js)
 ### 성능 요약
 
 메모리: 10 MB, 시간: 0.22 ms
